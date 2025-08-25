@@ -28,21 +28,20 @@ Este projeto utiliza a regressão polinomial, uma técnica de machine learning, 
     ```
 3.  **Execute o script Python:**
     ```bash
-    python seu_script.py
+    python ml2.py
     ```
-    (Substitua `seu_script.py` pelo nome do seu arquivo, por exemplo, `ml.py`)
 
 ## Resultados
 Aqui estão os resultados gerados pelo projeto. A animação visualiza a flutuação da população de diferentes espécies de dinossauros ao longo de períodos geológicos. Ela demonstra como a ciência de dados e o machine learning podem ser utilizados para analisar e modelar a tendência populacional ao longo do tempo.
 
-![Gráfico Final]([dino_animated_final.gif])
+![Animação da Previsão](dino_animated_final.gif)
 
 ---
 
 ### Animação da Previsão
-ossas visualizações contam a história da população de sauropods, mostrando como a quantidade de dinossauros de uma mesma espécie variou ao longo de diferentes épocas. A curva de previsão, criada pelo nosso modelo, nos ajuda a entender a tendência populacional ao longo do tempo.
+Nossas visualizações contam a história da população de sauropods, mostrando como a quantidade de dinossauros de uma mesma espécie variou ao longo de diferentes épocas. A curva de previsão, criada pelo nosso modelo, nos ajuda a entender a tendência populacional ao longo do tempo.
 
-![Animação]([estrela_cadente_pausa_final.gif])
+![Animação da Estrela Cadente](estrela_cadente_pausa_final.gif)
 
 ---
 Feito por: Lucas Grezzi Baptista
