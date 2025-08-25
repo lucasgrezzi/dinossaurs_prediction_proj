@@ -32,17 +32,30 @@ Este projeto utiliza a regressão polinomial, uma técnica de machine learning, 
     ```
 
 ## Resultados
-Aqui estão os resultados gerados pelo projeto. A animação visualiza a flutuação da população de diferentes espécies de dinossauros ao longo de períodos geológicos. Ela demonstra como a ciência de dados e o machine learning podem ser utilizados para analisar e modelar a tendência populacional ao longo do tempo.
 
-![Animação da Previsão](dino_animated_final.gif)
+![Animação da Previsão](Seaborn/dino_animated_final.gif)
+
+Este GIF mostra a evolução de vários tipos de dinossauros ao longo do tempo.
+
+Este gráfico visualiza a dinâmica de múltiplos grupos. Cada **linha colorida** representa uma espécie ou família diferente (como sauropods, large theropods, etc.), conforme a legenda.
+
+A animação mostra como a população de cada um desses grupos aumentou, diminuiu e mudou de forma independente em diferentes **períodos históricos**. O GIF nos permite comparar a ascensão e queda de cada espécie, revelando como elas coexistiram e evoluíram ao longo do tempo.
 
 ---
 
 ### Animação da Previsão
-Nossas visualizações contam a história da população de sauropods, mostrando como a quantidade de dinossauros de uma mesma espécie variou ao longo de diferentes épocas. A curva de previsão, criada pelo nosso modelo, nos ajuda a entender a tendência populacional ao longo do tempo.
 
-![Animação da Estrela Cadente](estrela_cadente_pausa_final.gif)
+![Animação da Estrela Cadente](MachineLearning/estrela_cadente_pausa_final.gif)
 
+Este GIF mostra o resultado do nosso projeto de previsão da população de dinossauros sauropods.
+
+Inicialmente, vemos os pontos azuis, que representam a contagem de dinossauros em diferentes períodos do passado (são os nossos "Dados Históricos").
+
+Em seguida, uma linha vermelha surge, como uma "estrela cadente". Essa linha é a Curva de Previsão gerada pelo nosso modelo de machine learning. Ela tenta encontrar o melhor caminho que se ajusta aos pontos azuis, mostrando a tendência geral da população ao longo do tempo.
+
+Finalmente, um ponto verde aparece no final da curva. Esse ponto representa a nossa Previsão para a população de sauropods no próximo período. O número ao lado do ponto verde (3.71, no exemplo) indica a quantidade prevista de dinossauros.
+
+Em resumo, o GIF ilustra como usamos dados históricos para treinar um modelo que nos permite prever o que pode acontecer com a população de dinossauros no futuro.
 ---
 Feito por: Lucas Grezzi Baptista
 
